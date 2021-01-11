@@ -3,6 +3,9 @@
 # dependencies
 .idea
 node_modules
+
+dist
+
 .jshintrc
 
 
