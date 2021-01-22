@@ -14,7 +14,7 @@ export class TableSelection {
     }
 
     clear() {
-        this.group.forEach($el => $el.removeClas(TableSelection.className));
+        this.group.forEach($el => $el.removeClass(TableSelection.className));
         this.group = [];
     }
 
