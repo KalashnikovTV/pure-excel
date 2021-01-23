@@ -7,6 +7,6 @@
 - Ability to view the time and date of table creation
 - Ability to save the state of the application after reloading and closing the page
 
-**Watch => (#)**
+**Watch => https://kalashnikovtv.github.io/pure-excel/**
 
 *By course [click](https://vladilen.ru/excel)*
