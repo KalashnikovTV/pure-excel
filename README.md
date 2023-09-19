@@ -9,4 +9,3 @@
 
 **Watch => https://kalashnikovtv.github.io/pure-excel/**
 
-*By course [click](https://vladilen.ru/excel)*
